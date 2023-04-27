@@ -24,6 +24,10 @@ int main()
   printf("I am learning C.");
     
     
+     printf("Hello World!\t");
+  printf("I am learning C.");
+    
+    
     
      printf("They call him \"Johnny\".");
     
